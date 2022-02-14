@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31005.135
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Spisuk", "Spisuk\Spisuk.csproj", "{1505EE6B-8A74-40FC-89D4-A0299C9BAA76}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ListMainpulation", "ListMainpulation\ListMainpulation.csproj", "{35E6D127-A2B7-446E-BEDE-A444BEA5A637}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{1505EE6B-8A74-40FC-89D4-A0299C9BAA76}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1505EE6B-8A74-40FC-89D4-A0299C9BAA76}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1505EE6B-8A74-40FC-89D4-A0299C9BAA76}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1505EE6B-8A74-40FC-89D4-A0299C9BAA76}.Release|Any CPU.Build.0 = Release|Any CPU
+		{35E6D127-A2B7-446E-BEDE-A444BEA5A637}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{35E6D127-A2B7-446E-BEDE-A444BEA5A637}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{35E6D127-A2B7-446E-BEDE-A444BEA5A637}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{35E6D127-A2B7-446E-BEDE-A444BEA5A637}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {41CB47B5-1F63-45B1-B555-EB9405081E57}
+	EndGlobalSection
+EndGlobal
